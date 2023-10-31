@@ -60,11 +60,11 @@ header{
 }
 
 .open-menu{
-display: none;
+	display: none;
 }
 
 .close-menu{
-display: none;
+	display: none;
 }
 
 .mobile-nav{
@@ -146,18 +146,18 @@ display: none;
 }
 
 .reasons-why{
-display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 5rem;
-    gap: 1rem;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 5rem;
+	gap: 1rem;
 }
 
 .reason{
-    flex-grow: 1;
-    flex-shrink: 1;
-    flex-basis: 15rem;
+	flex-grow: 1;
+	flex-shrink: 1;
+	flex-basis: 15rem;
 }
 
 .reason-image{}
@@ -206,9 +206,9 @@ display: flex;
 }
 
 .article{
-    flex-grow: 1;
-    flex-shrink: 1;
-    flex-basis: 15rem;
+	flex-grow: 1;
+	flex-shrink: 1;
+	flex-basis: 15rem;
 }
 
 .article-image{
